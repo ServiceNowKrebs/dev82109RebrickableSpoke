@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="SIEM Datenbank">239e6df4db6110104869cc3039961903</application>
+        <filter/>
+        <name>rebrickables</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_356576_rebrickab.rebrickable_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 12:29:12</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>01af3c6edbce20104869cc30399619d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rebrickables</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_356576_rebrickab">60d34748db0220104869cc3039961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">60d34748db0220104869cc3039961993</sys_scope>
+        <sys_update_name>sys_ui_module_01af3c6edbce20104869cc30399619d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 12:29:12</sys_updated_on>
+        <table>x_356576_rebrickab_st_rebrickable</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

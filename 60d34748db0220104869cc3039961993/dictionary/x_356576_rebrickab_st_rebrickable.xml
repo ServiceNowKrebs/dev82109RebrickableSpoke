@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a40f346edbce20104869cc303996193f" label="rebrickable" max_length="40" name="x_356576_rebrickab_st_rebrickable" type="collection">
+        <element label="Anzahl" max_length="40" name="count" type="integer"/>
+        <element label="folgend" max_length="1024" name="folgend" type="string"/>
+        <element default="44" label="Testfeld" max_length="40" name="test" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="06f4090e875001109f45b8c6cebb3596" sys_domain="global" table="wf_activity_variable" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-09 16:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c2f4854e87d001109f45b8c6cebb3552</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="wf_activity_variable" name="wf_activity_variable" sys_domain="global" view="Default view">06f4090e875001109f45b8c6cebb3596</sys_ui_form>
+            <sys_ui_section caption="Topic Variables" display_value="Topic Variables" name="wf_activity_variable" sys_domain="global" view="Default view">42f4854e87d001109f45b8c6cebb3535</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-09 16:07:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-09 16:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c6f4854e87d001109f45b8c6cebb3534</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="wf_activity_variable" name="wf_activity_variable" sys_domain="global" view="Default view">06f4090e875001109f45b8c6cebb3596</sys_ui_form>
+            <sys_ui_section caption="Reference Specification" display_value="Reference Specification" name="wf_activity_variable" sys_domain="global" view="Default view">8ef4854e87d001109f45b8c6cebb352f</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-09 16:07:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-09 16:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5af4854e87d001109f45b8c6cebb3558</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="wf_activity_variable" name="wf_activity_variable" sys_domain="global" view="Default view">06f4090e875001109f45b8c6cebb3596</sys_ui_form>
+            <sys_ui_section caption="Choice List Specification" display_value="Choice List Specification" name="wf_activity_variable" sys_domain="global" view="Default view">8af4854e87d001109f45b8c6cebb3555</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-09 16:07:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-09 16:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>86f4854e87d001109f45b8c6cebb3555</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="wf_activity_variable" name="wf_activity_variable" sys_domain="global" view="Default view">06f4090e875001109f45b8c6cebb3596</sys_ui_form>
+            <sys_ui_section caption="Default Value" display_value="Default Value" name="wf_activity_variable" sys_domain="global" view="Default view">c6f4854e87d001109f45b8c6cebb3552</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-09 16:07:57</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>wf_activity_variable</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-12-09 16:07:57</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>06f4090e875001109f45b8c6cebb3596</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>wf_activity_variable</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Rebrickable Spoke" source="x_356576_rebrickab">60d34748db0220104869cc3039961993</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Rebrickable Spoke">60d34748db0220104869cc3039961993</sys_scope>
+            <sys_update_name>sys_ui_form_sections_06f4090e875001109f45b8c6cebb3596</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-12-09 16:07:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_auth_profile_basic">
+    <sys_auth_profile_basic action="INSERT_OR_UPDATE">
+        <name>AuthRebrickable</name>
+        <password>﷞﷟﷒204f14bc875e11109f45b8c6cebb353b﷬﷔1﷬﷭CxBMhGfEbwO6ylkMJxw1lw==5PxOsQM36_Zr62krGftA-NGimwPn9miP60drCEgp﷮﷯</password>
+        <sys_class_name>sys_auth_profile_basic</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-03 13:13:49</sys_created_on>
+        <sys_id>3f5b4fec871f45109f45b8c6cebb359d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>AuthRebrickable</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_356576_rebrickab">60d34748db0220104869cc3039961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">60d34748db0220104869cc3039961993</sys_scope>
+        <sys_update_name>sys_auth_profile_basic_3f5b4fec871f45109f45b8c6cebb359d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-03 13:13:49</sys_updated_on>
+        <username>KrebsM</username>
+    </sys_auth_profile_basic>
+</record_update>

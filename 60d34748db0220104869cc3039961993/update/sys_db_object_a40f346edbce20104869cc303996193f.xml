@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>true</actions_access>
+        <alter_access>true</alter_access>
+        <caller_access/>
+        <client_scripts_access>true</client_scripts_access>
+        <configuration_access>true</configuration_access>
+        <create_access>true</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>rebrickable</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_356576_rebrickab_st_rebrickable</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>true</scriptable_table>
+        <super_class/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-02-03 12:29:11</sys_created_on>
+        <sys_id>a40f346edbce20104869cc303996193f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>rebrickable</sys_name>
+        <sys_package display_value="Rebrickable Spoke" source="x_356576_rebrickab">60d34748db0220104869cc3039961993</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Rebrickable Spoke">60d34748db0220104869cc3039961993</sys_scope>
+        <sys_update_name>sys_db_object_a40f346edbce20104869cc303996193f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-02-03 12:29:11</sys_updated_on>
+        <update_access>true</update_access>
+        <user_role display_value="x_356576_rebrickab.rebrickable_user" name="x_356576_rebrickab.rebrickable_user">b8af3c2adbce20104869cc30399619ce</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+</record_update>

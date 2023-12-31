@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="ffcc95e6db4260104869cc303996193d" label="Rebrickableresults" max_length="40" name="x_356576_rebrickab_st_rebrickableresults" type="collection">
+        <element label="Anzahl" max_length="40" name="count" type="integer"/>
+        <element label="Folgend" max_length="1024" name="next" type="string"/>
+    </element>
+</database>
